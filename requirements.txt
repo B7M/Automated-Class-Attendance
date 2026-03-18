@@ -1,12 +1,7 @@
-cv2
+opencv-python
 dlib
-facenet_pytorch
-json
-matplotlib
-numpy
-os
-shutil
-sklearn
-ssl
+facenet-pytorch
 torch
-urllib
+numpy
+scikit-learn
+matplotlib 
